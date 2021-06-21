@@ -1,5 +1,7 @@
 # Alex's Notes
 
-# This is an H1 header (largest)
+# Lighthouse Labs
 
-###### This is an H6 header (smallest)
+## Summary
+
+This repository contains all of the notes taken by [Alexander](https://github.com/AlSid604/lighthouse-web-notes) for the Lighthouse Labs Web Development Bootcamp.
